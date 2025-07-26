@@ -7,12 +7,12 @@
     },
     { 
         text: "Você é sempre a pessoa que eu conto minhas fofocas 💗 ", 
-        emoji: "😆",
+        emoji: "👂",
         gif: "gif2.gif"
     },
     { 
         text: "Porque nós dois somos dois bobões 💕", 
-        emoji: "👂",
+        emoji: "😆",
         gif: "gif1.gif"
     },
     { 
