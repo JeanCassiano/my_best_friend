@@ -6,7 +6,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "Você é sempre a pessoa que eu conto minhas fofocas 🙈💗 ", 
+        text: "Você é sempre a pessoa que eu conto minhas fofocas 💗 ", 
         emoji: "😆",
         gif: "gif2.gif"
     },
